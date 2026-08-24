@@ -14,5 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=talepa&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="talepa's GitHub profile" src="dark_mode.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
