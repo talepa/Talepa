@@ -17,6 +17,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Users/rahul/Downloads/dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/Users/rahul/Downloads/light_mode.svg" />
-  <img alt="talepa's GitHub profile" src="dark_mode.svg" />
+  <img alt="talepa's GitHub profile" src="/Users/rahul/Downloads/dark_mode.svg" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
