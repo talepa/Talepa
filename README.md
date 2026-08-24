@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="talepa's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 👋 Hey, I’m Rahul Talepa<br><br>I'm a Machine Learning Engineer & Data Enthusiast who loves building things that solve real problems.<br>From predictive models to data stories to full-stack prototypes — I enjoy turning ideas into working systems.<br><br>🚀 What I Do<br><br>* 🤖 Build ML models (Regression, Classification, NLP, etc.)<br>* 📊 Analyze and visualize data to extract meaningful insights<br>* 🧠 Work with Python, scikit-learn, TensorFlow, Pandas, NumPy<br>* 🛠️ Develop end-to-end solutions using Git, Docker, SQL, and APIs<br>* ☁️ Exploring cloud + MLOps for scalable deployments<br><br>📚 Currently Learning<br><br>* 🧬 Deep Learning (CNNs, RNNs, LLMs)<br>* ⚙️ MLOps practices (Docker, CI/CD, model deployment)<br>* ☁️ Cloud services (AWS, GCP)<br><br><br>🤝 Let’s Connect<br><br>* 💼 [LinkedIn](https://www.linkedin.com/in/rahul-talepa/)<br>* 🛠️ Always open to collaboration, ideas, and learning something new!<br>
 
@@ -14,9 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=talepa&icon=0&color=0)](https://visitcount.itsvg.in)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Users/rahul/Downloads/dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/Users/rahul/Downloads/light_mode.svg" />
-  <img alt="talepa's GitHub profile" src="/Users/rahul/Downloads/dark_mode.svg" />
-</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
